@@ -1,5 +1,5 @@
 ---
-title: "Environmental Injustice & Inequity"
+title: "Environmental Inequity & Injustice"
 author: "Isabella C. Richmond"
 date: "`r format(Sys.Date(), '%d/%m/%Y')`"
 format: 
@@ -9,29 +9,131 @@ format:
 editor: visual
 ---
 
-## Societal Injustice & Inequity 
+## Today's Outline
 
-## Environmental Injustice & Inequity 
+1.  Lecture (\~ 1 hr)
 
-## Settler Colonialism 
+-   What is environmental justice and inequity?
+-   What are its causes?
+-   How does it relate to urban ecology and conservation?
 
-## Environmental Racism 
+2.  Break (\~ 15 mins)
 
-## Environmental Classism 
+3.  Discussion (\~ 1 hr 30)
+
+## What is Environmental Inequity/Injustice?
+
+## Environmental Harm
+
+::: notes
+Environmental inequity and racism has existed in Canada for as long as settler colonialism has. - We can (and should) think of the colonization of Canada as the first act of environmental racism (among many other things).
+:::
+
+## Origins of Environmental Justice
+
+::: {#fig-envjustice layout-ncol="2"}
+![[Memphis Garbage Strike](https://www.dol.gov/general/aboutdol/hallofhonor/2011_memphis)](imgs/memphis.jpg)
+
+![[Formation of NECAG](https://www.epa.gov/environmentaljustice/environmental-justice-timeline)](imgs/NECAG.jpg)
+
+Origins of the environmental justice framework
+:::
+
+## The Environmental Justice Framework
+
+-   starts with the presence of adverse health outcomes from pollution
+    -   cancer in Halifax
+    -   air pollution in LA (Bullard)
+-   has expanded to include other aspects of health and wellbeing
+    -   tree canopy
+    -   access to green space
+    -   
+
+## Settler Colonialism
+
+## Environmental Racism
+
+## Environmental Classism
 
 ## Systems
 
-## Ecology's Role 
+-   These things are not separate - deeply intertwined
+-   
 
+## Ecology's Role
 
-## Ecological Examples 
+-   gentrification
 
-## Conservation's Role 
+## Ecological Examples
 
-## Conservation Examples 
+-   Frederic Back
+-   New UdeM campus
 
-## Injustice by Design 
+## Conservation's Role
 
-## Cities by Design 
+-   Land dispossession
+-   Palestine
+
+## Conservation Examples
+
+-   reclaiming foraging?
+
+## Injustice by Design
+
+-   the injustice we experience in all aspects of life is an intentional and unintentional outcome of our society's structure and priorities
+
+## Cities by Design
 
 ## Attempts at Environmental Justice
+
+
+
+
+
+## Discussion
+
+SNOWBALL ACTIVITY
+
+1\. Take out a sheet of paper (I have some if you don't)
+
+2\. Write a response to any of these discussion points:
+
+-   D1
+
+-   D2
+
+-   D3
+
+3\. Crumple and throw your paper across the room
+
+
+## Discussion 
+
+4\. Find a different piece of paper, uncrumple, and respond to what is written
+
+5\. Re-crumple and throw your paper across the room
+
+6\. Pick up any piece of paper
+
+7\. Discuss in groups of your choosing what is on the paper
+
+-   **NOTE: write your names on a paper and hand it in for participation marks**
+
+## Discussion (continued)
+
+If we have lots of time, here are the next steps to the activity:
+
+8\. When you have finished discussing the papers your group has, each group send one person to a new group to present the discussion you just had to a new group
+
+9\. The new group adds/discusses/agrees/disagrees with the presented discussion
+
+10\. Repeat with a different group member
+
+
+
+## Citations & Resources
+
+-   [There's Something in the Water](https://fernwoodpublishing.ca/book/there8217s-something-in-the-water)
+-   [ENVIRONMENTAL JUSTICE IN THE 21ST CENTURY](https://uwosh.edu/sirt/wp-content/uploads/sites/86/2017/08/Bullard_Environmental-Justice-in-the-21st-Century.pdf)
+-   [Environmental Justice Timeline](https://www.epa.gov/environmentaljustice/environmental-justice-timeline)
+-   

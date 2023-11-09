@@ -1,24 +1,37 @@
 ---
-title: "Untitled"
-format: revealjs
+title: "Environmental Injustice & Inequity"
+author: "Isabella C. Richmond"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+format: 
+  revealjs:
+    incremental: false
+    theme: simple
 editor: visual
 ---
 
-## Quarto
+## Societal Injustice & Inequity 
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+## Environmental Injustice & Inequity 
 
-## Bullets
+## Settler Colonialism 
 
-When you click the **Render** button a document will be generated that includes:
+## Environmental Racism 
 
--   Content authored with markdown
--   Output from executable code
+## Environmental Classism 
 
-## Code
+## Systems
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Ecology's Role 
 
-```{r}
-1 + 1
-```
+
+## Ecological Examples 
+
+## Conservation's Role 
+
+## Conservation Examples 
+
+## Injustice by Design 
+
+## Cities by Design 
+
+## Attempts at Environmental Justice

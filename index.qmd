@@ -21,13 +21,9 @@ editor: visual
 
 3.  Discussion (\~ 1 hr 30)
 
-
-
-
 ## Difficult Discussions
 
 ![](https://media4.giphy.com/media/ftdbSnWo91NhVyMMK0/giphy.gif?cid=c623cb35tr4t42rx2t0kzky5aegox5lwz7txt63wt2evhgja&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 
 ::: notes
 -   we must be brave
@@ -40,19 +36,12 @@ editor: visual
 -   we must use our privilege when we can
 :::
 
-
-
-
 ## What is Environmental Inequity/Injustice?
-
 
 Marginalized groups within our population *systematically* experience higher levels of environmental risk, and enjoy worse/limited access to quality nature and the environment than their counterparts.
 
-- experienced along lines of race and class through settler-colonialist violence, anti-Black racism, classism, etc.
-- access to a healthy environment is a [**human right**](https://news.un.org/en/story/2021/10/1102582)
-
-
-
+-   experienced along lines of race and class through settler-colonialist violence, anti-Black racism, classism, etc.
+-   access to a healthy environment is a [**human right**](https://news.un.org/en/story/2021/10/1102582)
 
 ## What is Environmental Inequity/Injustice?
 
@@ -70,59 +59,6 @@ Marginalized groups within our population *systematically* experience higher lev
 
 
 
-
-## "Canada's" Environment
-
-::: {#fig-envjustice layout-ncol="2"}
-
-![[Parks Canada](https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&IdNumber=4949305)](imgs/national-parks.jpg)
-
-![[Mining Resistance](https://www.baytoday.ca/local-news/no-ring-of-finre-mining-without-consent-first-nations-alliance-demands-7310782)](imgs/ringoffire.jpg)
-
-Canada's environment was taken from Indigenous peoples who managed the land since time immemorial.
-:::
-
-::: notes
-Environmental inequity and racism has existed in Canada for as long as settler colonialism has. 
-- We can (and should) think of the colonization of Canada as the first act of environmental racism (among many other things).
-:::
-
-
-## Injustice by Design
-
--   Urban planning is defined as a social endeavor that has a distinct set of goals designed to reach an “optimal strategy” determined by those in power ([Alexander, 1992](https://books.google.ca/books?hl=en&lr=&id=tyPIG4lL3QoC&oi=fnd&pg=PP11&dq=Urban+planning+is+defined+as+a+social+endeavor+that+has+a+distinct+set+of+goals+designed+to+reach+an+%E2%80%9Coptimal+strategy%E2%80%9D+determined+by+those+in+power&ots=4geEVvcQjw&sig=9X1zM7UX77wN0z-fCrl1EIW6LN0&redir_esc=y#v=onepage&q&f=false))
-
--   Urban planning reflects the priorities and beliefs of our settler-colonial, racist, classist, patriarchal societies back onto us
-
-
-## Cities by Design
-![[Schell et al., 2020](https://www.science.org/doi/full/10.1126/science.aay4497)](imgs/schell.jpeg)
-
-
-
-## Ecology's Role
-
--   access to nature 
--   gentrification
-
-## Ecological Examples
-
--   Frederic Back
--   New UdeM campus
-
-## Conservation's Role
-
--   Land dispossession
--   Palestine
-
-## Conservation Examples
-
--   reclaiming foraging?
-
-
-
-
-
 ## Origins of Environmental Justice
 
 ::: {layout-ncol="2"}
@@ -132,7 +68,6 @@ Environmental inequity and racism has existed in Canada for as long as settler c
 
 Origins of the environmental justice framework
 :::
-
 
 ::: notes
 -   starts with the presence of adverse health outcomes from pollution
@@ -145,27 +80,137 @@ Origins of the environmental justice framework
 
 
 
+## Politics of Citation
 
-## Environmental Justice Framework 
+-   Citation in academia can be an act of resistance, an act of aspiration
+-   Citation is also inherently individualistic, flawed, and incomplete
+-   The ideas and theories of environmental justice, racism, inequity, reparations are rooted in a history created by Black women, Indigenous women, marginalized groups and people that will never be cited
 
-1. Incorporates principle right of all people to be protected from environmental degradation
+::: notes
+my ideas and learning on these topics has been informed by reading and listening to people in other fields and non-academics alike. People like bell hooks, Mariame Kaba, Angela Davis, Leanne Simpson, Eve Tuck, Sara Ahmed, Haunani-Kay Trask, and many many others that I know (or don't know) have formed the world and perspective in which I operate
+:::
 
-2. Adopts a public health model of prevention
 
-3. Shifts burden of proof to actors who do harm and/or do not protect marginalized groups
 
-4. Uses impact instead of intent to infer discrimination
+## Environmental Justice Framework
 
-5. Uses targeted actions and resources
+1.  Incorporates principle right of all people to be protected from environmental degradation
+
+2.  Adopts a public health model of prevention
+
+3.  Shifts burden of proof to actors who do harm and/or do not protect marginalized groups
+
+4.  Uses impact instead of intent to infer discrimination
+
+5.  Uses targeted actions and resources
 
 [Bullard, 2008](https://uwosh.edu/sirt/wp-content/uploads/sites/86/2017/08/Bullard_Environmental-Justice-in-the-21st-Century.pdf)
+
+## "Canada's" Environment
+
+::: {#fig-envjustice layout-ncol="2"}
+![[Parks Canada](https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&IdNumber=4949305)](imgs/national-parks.jpg)
+
+![[Mining Resistance](https://www.baytoday.ca/local-news/no-ring-of-finre-mining-without-consent-first-nations-alliance-demands-7310782)](imgs/ringoffire.jpg)
+
+Canada's environment was taken from Indigenous peoples who managed the land since time immemorial.
+:::
+
+::: notes
+Environmental inequity and racism has existed in Canada for as long as settler colonialism has. - We can (and should) think of the colonization of Canada as the first act of environmental racism (among many other things).
+:::
+
+## Injustice by Design
+
+-   Urban planning is defined as a social endeavor that has a distinct set of goals designed to reach an "optimal strategy" determined by those in power ([Alexander, 1992](https://books.google.ca/books?hl=en&lr=&id=tyPIG4lL3QoC&oi=fnd&pg=PP11&dq=Urban+planning+is+defined+as+a+social+endeavor+that+has+a+distinct+set+of+goals+designed+to+reach+an+%E2%80%9Coptimal+strategy%E2%80%9D+determined+by+those+in+power&ots=4geEVvcQjw&sig=9X1zM7UX77wN0z-fCrl1EIW6LN0&redir_esc=y#v=onepage&q&f=false))
+
+-   Urban planning reflects the priorities and beliefs of our settler-colonial, racist, classist, patriarchal societies back onto us
+
+## Cities by Design
+
+![[Schell et al., 2020](https://www.science.org/doi/full/10.1126/science.aay4497)](imgs/schell.jpeg)
+
+## Ecology's Role
+
+::: {layout="[[1], [1, 1]]" style="font-size: 70%"}
+-   A "traditional" approach to ecology results:
+    -   Environmental inequity
+    -   Misunderstanding of urban ecological systems
+
+![[Radio-Canada Article](https://ici.radio-canada.ca/info/2022/07/ilots-chaleur-villes-inegalites-injustice-changements-climatiques/en)](imgs/mtl_vegetation.png){width="3in"}
+
+![](imgs/mtl_immigrants.png){width="3in"}
+:::
+
+::::
+
+::: notes
+-   Gentrification, prioritization of certain populations, *legacy effects*
+:::
+
+## Ecological Example: Frédéric-Back Park
+
+::: columns
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+-   Saint-Michel is a neighbourhood in Montréal that:
+    -   Is home to many immigrants and Black people
+    -   Is home to many poor people
+    -   Experiences (and has experienced) intense environmental racism
+:::
+
+::: {.column width="50%" layout="[[-1], [1], [-1]]"}
+![[Jolivet & Carré, 2017](https://doi.org/10.4000/cybergeo.28067)](imgs/fb-income.jpg)
+:::
+:::
+
+::: notes
+-   segmented neighbourhood
+-   food desert
+-   long commute times
+-   high traffic/air pollution
+-   landfill on both sides
+-   garbage incineration for years
+-   high risk of water contamination from landfills and pipelines (which run under elementary schools)
+-   median income for Montreal was 64,000\$ when this study was done
+:::
+
+
+
+## Ecological Example: Frédéric-Back Park
+
+::: columns
+::: {.column width="50%" layout="[[-1], [1], [-1]]"}
+![[Jolivet & Carré, 2017](https://doi.org/10.4000/cybergeo.28067)](imgs/fb-historical.png)
+:::
+
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+-   Community members rallied to form a group (Vivre Saint-Michel en Santé) and advocated to close the landfill
+-   The city decided to transform the old landfill into the park we know today
+:::
+:::
+
+
+
+## Ecological Example: Frédéric-Back Park
+
+::: columns
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+-   Ville de Montréal has been critiqued for not consulting residents in the park formation. Consequently:
+    -   The park perpetuates inequity in green space access
+    -   The park is not designed for the needs of residents
+    -   The park has resulted in a 30% increase in rental costs, pushing residents out
+:::
+
+::: {.column width="50%" layout="[[-1], [1], [-1]]"}
+![[Montréal Tourism](https://www.mtl.org/en/what-to-do/activities/frederic-back-park-montreal)](imgs/fb-now.jpg)
+:::
+:::
 
 
 
 ## Environmental Justice in Action
 
-
-
+-   expand on podcast - Medellin
 
 ## Discussion
 
@@ -214,3 +259,8 @@ If we have lots of time, here are the next steps to the activity:
 -   [Canada's National Parks are Colonial Crimescenes](https://thewalrus.ca/canadas-national-parks-are-colonial-crime-scenes/)
 -   [99 PI: Shade Redux](https://99percentinvisible.org/episode/shade-redux/)
 -   [Canadaland: Shitty Cities](https://www.canadaland.com/podcast/806-shitty-cities/)
+-   [Living a Feminist Life - Sara Ahmed](https://link.springer.com/article/10.1057/s41296-018-0199-2)
+-   [Citation - Mariner 2022](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/fea2.12074)
+-   [Pedagogy of the Oppressed - Paulo Freire](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf)
+-   [Achieving Environmental Justice in Montréal-Nord](https://davidsuzuki.org/story/achieving-environmental-justice-in-montreal-north/)
+-   [PORTRAIT DE LA GOUVERNANCE DES PARCS À MONTRÉAL : LES CAS DU SQUARE CABOT, DE LA PLACE ÉMILIE-GAMELIN ET DES PARCS JARRY ET FRÉDÉRIC-BACK](https://cerse.crosemont.qc.ca/wp-content/uploads/2023/08/Livrable-1_Revue-de-la-litterature-et-cartographie-de-la-gouvernance-formelle.pdf)

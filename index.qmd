@@ -38,10 +38,16 @@ editor: visual
 
 ## What is Environmental Inequity/Injustice?
 
+::: {style="font-size:80%"}
 Marginalized groups within our population *systematically* experience higher levels of environmental risk, and enjoy worse/limited access to quality nature and the environment than their counterparts.
 
 -   experienced along lines of race and class through settler-colonialist violence, anti-Black racism, classism, etc.
 -   access to a healthy environment is a [**human right**](https://news.un.org/en/story/2021/10/1102582)
+
+![](imgs/healthyenvironment.png){fig-align="center" width="6in"}
+
+:::
+
 
 ## What is Environmental Inequity/Injustice?
 
@@ -78,8 +84,18 @@ Origins of the environmental justice framework
 
 ## Politics of Citation
 
+
+
+::: columns
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
 -   Citation in academia can be an act of resistance, an act of aspiration
 -   The ideas and theories of environmental justice, racism, inequity, reparations are rooted in a history created by Black women, Indigenous women, marginalized groups and people that will never be cited
+:::
+
+::: {.column width="50%"}
+![](https://supernaut.info/wordpress/wp-content/uploads/2018/01/sara-ahmed-living-a-feminist-life-683x1024.jpg){width="4in"}
+:::
+:::
 
 ::: notes
 my ideas and learning on these topics has been informed by reading and listening to people in other fields and non-academics alike. People like bell hooks, Mariame Kaba, Angela Davis, Leanne Simpson, Eve Tuck, Sara Ahmed, Haunani-Kay Trask, and many many others that I know (or don't know) have formed the world and perspective in which I operate
@@ -115,9 +131,14 @@ Environmental inequity and racism has existed in Canada for as long as settler c
 
 ## Injustice by Design
 
+[![](imgs/parcex.png)](https://www.cbc.ca/news/canada/montreal/montreal-trees-inequality-canada-1.6175204)
+
 -   Urban planning is defined as a social endeavor that has a distinct set of goals designed to reach an "optimal strategy" determined by those in power ([Alexander, 1992](https://books.google.ca/books?hl=en&lr=&id=tyPIG4lL3QoC&oi=fnd&pg=PP11&dq=Urban+planning+is+defined+as+a+social+endeavor+that+has+a+distinct+set+of+goals+designed+to+reach+an+%E2%80%9Coptimal+strategy%E2%80%9D+determined+by+those+in+power&ots=4geEVvcQjw&sig=9X1zM7UX77wN0z-fCrl1EIW6LN0&redir_esc=y#v=onepage&q&f=false))
 
+
+::: notes
 -   Urban planning reflects the priorities and beliefs of our settler-colonial, racist, classist, patriarchal societies back onto us
+:::
 
 ## Cities by Design
 
@@ -281,3 +302,4 @@ If we have lots of time, here are the next steps to the activity:
 -   [Portrait de la Gouvernance des Parcs à Montréal : Les Cas du Square Cabot, de la Place Émilie-Gamelim et des Parcs Jarry et Frédéric-Back](https://cerse.crosemont.qc.ca/wp-content/uploads/2023/08/Livrable-1_Revue-de-la-litterature-et-cartographie-de-la-gouvernance-formelle.pdf)
 -   [Freedom to Forage: Why is Foraging a Race Issue?](https://bangersandballs.co/foraging/freedom-to-forage-foraging-and-race/)
 -   [4 BIPOC Foragers You Should Know](https://www.melaninbasecamp.com/trip-reports/2021/10/3/4-bipoc-foragers-you-should-know-about)
+-   [feministkilljoys - Sara Ahmed](https://feministkilljoys.com/)

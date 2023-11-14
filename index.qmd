@@ -57,8 +57,6 @@ Marginalized groups within our population *systematically* experience higher lev
 :::
 :::
 
-
-
 ## Origins of Environmental Justice
 
 ::: {layout-ncol="2"}
@@ -78,8 +76,6 @@ Origins of the environmental justice framework
     -   access to green space
 :::
 
-
-
 ## Politics of Citation
 
 -   Citation in academia can be an act of resistance, an act of aspiration
@@ -89,8 +85,6 @@ Origins of the environmental justice framework
 ::: notes
 my ideas and learning on these topics has been informed by reading and listening to people in other fields and non-academics alike. People like bell hooks, Mariame Kaba, Angela Davis, Leanne Simpson, Eve Tuck, Sara Ahmed, Haunani-Kay Trask, and many many others that I know (or don't know) have formed the world and perspective in which I operate
 :::
-
-
 
 ## Environmental Justice Framework
 
@@ -174,22 +168,19 @@ Environmental inequity and racism has existed in Canada for as long as settler c
 -   median income for Montreal was 64,000\$ when this study was done
 :::
 
-
-
 ## Ecological Example: Frédéric-Back Park
 
 ::: columns
 ::: {.column width="50%" layout="[[-1], [1], [-1]]"}
-![[Jolivet & Carré, 2017](https://doi.org/10.4000/cybergeo.28067)](imgs/fb-historical.png)
+![[Jolivet & Carré, 2017](https://doi.org/10.4000/cybergeo.28067)](imgs/fb-historical.jpg)
 :::
 
 ::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
 -   Community members rallied to form a group (Vivre Saint-Michel en Santé) and advocated to close the landfill
 -   The city decided to transform the old landfill into the park we know today
+    -   Ecologically exciting design
 :::
 :::
-
-
 
 ## Ecological Example: Frédéric-Back Park
 
@@ -206,26 +197,35 @@ Environmental inequity and racism has existed in Canada for as long as settler c
 :::
 :::
 
-
-
 ## Conservation's Role
 
--   Land dispossession
--   Palestine
-
-## Conservation Examples
-
--   reclaiming foraging?
+![[Montréal's Master Plan](https://ville.montreal.qc.ca/portal/page?_pageid=2762,3101662&_dad=portal&_schema=PORTAL)](imgs/mtl_greenspace.gif)
 
 
+::: notes
+-   Conservation in cities is key for:
+    -   Maintaining and providing ecosystem services
+    -   Conserving biodiversity
+    -   Providing habitat
+:::
+
+
+## Conservation Example
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@ajplus/video/7198294467445542187" data-video-id="7198294467445542187" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@ajplus" href="https://www.tiktok.com/@ajplus?refer=embed">@ajplus</a> Here’s why foraging as a Black person is an act of rebellion, ft. @alexisnikole. </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+::: notes
+https://www.tiktok.com/@ajplus/video/7198294467445542187
+-   Conservation must be done in community, or will inevitably result in furthering inequity and injustice 
+-   For example, foraging
+    - A skill used by Black and Indigenous people for milennia on this land 
+    - Intentionally removed in the name of "conservation" and as an act of racism 
+    - Reclaiming that practice in cities is part of reparing the relationship, conservation because Indigenous peoples are the stewards of this land, and increases food security 
+:::
 
 ## Environmental Justice in Action
 
 -   expand on podcast - Medellín
-
-
-
-
 
 ## Discussion: SNOWBALL ACTIVITY
 
@@ -240,7 +240,6 @@ Environmental inequity and racism has existed in Canada for as long as settler c
 -   Do you have examples of science that you think should have considered environmental justice and didn't? Why should they? Why didn't they?
 
 3\. Crumple and throw your paper across the room
-
 
 ## Discussion: SNOWBALL ACTIVITY
 
@@ -277,6 +276,9 @@ If we have lots of time, here are the next steps to the activity:
 -   [Citation - Mariner 2022](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1002/fea2.12074)
 
 ## More More Resources
+
 -   [Pedagogy of the Oppressed - Paulo Freire](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf)
 -   [Achieving Environmental Justice in Montréal-Nord](https://davidsuzuki.org/story/achieving-environmental-justice-in-montreal-north/)
--   [PORTRAIT DE LA GOUVERNANCE DES PARCS À MONTRÉAL : LES CAS DU SQUARE CABOT, DE LA PLACE ÉMILIE-GAMELIN ET DES PARCS JARRY ET FRÉDÉRIC-BACK](https://cerse.crosemont.qc.ca/wp-content/uploads/2023/08/Livrable-1_Revue-de-la-litterature-et-cartographie-de-la-gouvernance-formelle.pdf)
+-   [Portrait de la Gouvernance des Parcs à Montréal : Les Cas du Square Cabot, de la Place Émilie-Gamelim et des Parcs Jarry et Frédéric-Back](https://cerse.crosemont.qc.ca/wp-content/uploads/2023/08/Livrable-1_Revue-de-la-litterature-et-cartographie-de-la-gouvernance-formelle.pdf)
+-   [Freedom to Forage: Why is Foraging a Race Issue?](https://bangersandballs.co/foraging/freedom-to-forage-foraging-and-race/)
+-   [4 BIPOC Foragers You Should Know](https://www.melaninbasecamp.com/trip-reports/2021/10/3/4-bipoc-foragers-you-should-know-about)

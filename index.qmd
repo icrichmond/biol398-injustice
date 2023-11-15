@@ -245,7 +245,47 @@ https://www.tiktok.com/@ajplus/video/7198294467445542187
 
 ## Environmental Justice in Action
 
--   expand on podcast - Medellín
+
+::: columns
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+-   Metro de Medellín is world renowned example of environmental sustainability and social equity in cities 
+-   Connected communities experiencing environmental injustice 
+-   Equivalent of planting 380,000 trees 
+-   Public squares, parks, street trees all increased
+:::
+
+::: {.column width="50%" layout="[[-1], [1], [-1]]"}
+![[Line H of the Metrocable by Felipe Restrepo Acosta (CC BY-SA 4.0)](https://99percentinvisible.org/episode/post-narco-urbanism/)](imgs/metrocable.jpg)
+:::
+:::
+
+
+## Medellín's Greenbelt
+
+::: columns
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+![Empresa de Desarrollo Urbano (EDU), Municipio de Medellín](imgs/greenbelt.png)
+:::
+
+::: {.column width="50%" style="font-size: 80%" layout="[[-1], [1], [-1]]"}
+-   Medellín, like other cities, wants to improve resiliency, decrease heat islands, reduce flooding
+-   People living in high-risk climate zones are poor, marginalized communities
+-   Greenbelt was proposed to address sprawl, ecological, and social issues
+-   Estimated to affect 230,000 residents
+:::
+:::
+
+
+
+::: notes
+-   Greenbelt aims to protect areas surrounding Medellín and protect sprawl, increase climate resilience, and have many other important ecological benefits
+-   Residents do not want to be evicted for many reasons including concern over where they will be moved to, that they will receive insufficient funding, that they will lose their social networks and ability to work, etc. 
+-   Residents think the government is over estimating risk to remove them 
+-   Design is not congruent with how residents view nature - built up "techy" version of nature that doesn't feel natural to residents
+-   Creating private land where residents used to live
+-   Exclusion of community voices, superimposing the "city's" vision 
+:::
+
 
 ## Discussion: SNOWBALL ACTIVITY
 
@@ -255,7 +295,7 @@ https://www.tiktok.com/@ajplus/video/7198294467445542187
 
 -   What is an idea you have for improving environmental equity in Montréal? Why do you think it would work?
 
--   How do you think the transformation of Medellín's green spaces could be improved?
+-   How do you think the development of Medellín's greenbelt could be improved?
 
 -   Do you have examples of science that you think should have considered environmental justice and didn't? Why should they? Why didn't they?
 
@@ -303,3 +343,5 @@ If we have lots of time, here are the next steps to the activity:
 -   [Freedom to Forage: Why is Foraging a Race Issue?](https://bangersandballs.co/foraging/freedom-to-forage-foraging-and-race/)
 -   [4 BIPOC Foragers You Should Know](https://www.melaninbasecamp.com/trip-reports/2021/10/3/4-bipoc-foragers-you-should-know-about)
 -   [feministkilljoys - Sara Ahmed](https://feministkilljoys.com/)
+-   [Medellín's Amazing Metro System](https://archive.thinkprogress.org/medellins-amazing-metro-system-colombia-uses-public-transport-to-drive-societal-change-1a4186f6c3c6/)
+-   [Grabbed Urban Landscapes: Socio-spatial Tensions in Green Infrastructure Planning in Medellín](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-2427.12725)
